@@ -9,6 +9,6 @@ From these characteristics of the business, it will be determined if trends are 
 
 ## Results: Tableau Visualziations and Descriptions
 - 
-![alt_text]https://github.com/NassimNatA/NY_Citibike/blob/main/Screen%20Shot%202021-01-09%20at%206.45.04%20PM.png
+![alt_text](https://github.com/NassimNatA/NY_Citibike/blob/main/Screen%20Shot%202021-01-09%20at%206.45.04%20PM.png)
 
 ## Summary: Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
