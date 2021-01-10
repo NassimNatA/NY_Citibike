@@ -38,6 +38,9 @@ A heat map of trip by gender show males are consistently with a higher number of
 
 A heat map of the trips by gender by weekday demonstrate that a majority of subscribers identify as male. This is anticipated since males have been shown in previous visualizations above to be the primary customer for bikeshares with the highest numer of bike rides acroos weekends, weekdays, and trip duration. 
 
+## Bike rides by Age and Gender
+![alt_text](https://github.com/NassimNatA/NY_Citibike/blob/main/Screen%20Shot%202021-01-09%20at%2011.23.33%20PM.png)
 
+Total bike rides separated by age and filtered by gender show there is a peak of users at age of 30, after birth year of 1990 there is a decrease in users showing that older individuals do not invest in as many rides as younger users. Likewise, there is a peak of female users at the age of 51. 
 
 ## Summary: Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
