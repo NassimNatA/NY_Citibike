@@ -47,4 +47,12 @@ Total bike rides separated by age and filtered by gender show there is a peak of
 ![alt_text](https://github.com/NassimNatA/NY_Citibike/blob/main/Screen%20Shot%202021-01-09%20at%2011.31.37%20PM.png)
 
 A closer look into the distribution of bike usage for the female population peak at at 51 (born year 1969) show that a significant majority were no subscribers. This implies that there could have been a one-time event or sponsorship that caused a high population of female users to rent bikes compared to the drop out of users over the age of 30. 
-## Summary: Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
+
+## Summary
+
+The data visualization above demonstrates that there are significant and consistent trends in bikeshares that support further investment into the program. Specifically, this program will be best utilized to support commute to/from school and jobs on Weekdays. Second, that male users will be most invested based on the current data that shows a singificantly higher usage than females. Third, this program will be most appealing for age group below 30, in which a drop out of bikeshares were seen to decrease after surpassing this age. An additional consideration would be to analyze the neighborhoods and locations in proximity to the bikeshare distribution since it can be expected that a male-populated, urban city will have the highest need for bikeshares based on these previous subscribers.
+
+# Additional Visualizations
+
+1. Map the starting and ending locations to a geograhical map to determine what locations are hotspots for bikeshares and determine if it differs by gender by filtering by Male/Female. 
+2. Determine if a certain set of bikes are used more than others: graph bike id by counts and filter by gender to see if there are particular pieces of equipment more favorable than others per gender. 
