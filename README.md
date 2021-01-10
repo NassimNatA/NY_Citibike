@@ -24,7 +24,7 @@ When separating by gender, there are much higher number of bikesfor males (mediu
 A heat map generated for the bike trips by Weekday and per hour demonstrate that bikes are used most prominently on weekends, and on weekdays for commuting in the AM (to work: 6 AM - 9AM, from work: 5 PM - 6P M). 
 
 - Trips by Gender (Weekday per Hour) 
-![alt_text] (https://github.com/NassimNatA/NY_Citibike/blob/main/Screen%20Shot%202021-01-09%20at%207.23.29%20PM.png)
+![alt_text](https://github.com/NassimNatA/NY_Citibike/blob/main/Screen%20Shot%202021-01-09%20at%207.23.29%20PM.png)
 
 A heat map of trip by gender show males are consistently with a higher number of records (i.e number of rides), but that females share the similar pattern of using bikes for commute during the AM (7 AM -9 AM) and PM (4 PM - 6 PM). 
 
