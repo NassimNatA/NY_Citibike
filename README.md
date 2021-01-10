@@ -1,5 +1,8 @@
 # NY Citibike Analysis 
 
+## Link to Tableau Public Story 
+[link to dashboard](https://public.tableau.com/profile/nassim7838#!/vizhome/Challenge14_Story/Story4?publish=yes)
+
 ## Overview of the analysis
 The purpose of this project is to support the proposal of a bike-sharing investment to stakeholders based on in-depth analysis that will demonstrate the following: 
 - Length of time that bikes are checked out for all riders and genders
